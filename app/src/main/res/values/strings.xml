@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="iron_man">Iron Man</string>
+    <string name="avengers">Avengers</string>
+    <string name="_1974">1974</string>
+    <string name="first_appearance">First Appearance</string>
+    <string name="team">Team</string>
+    <string name="tony_stark">Tony Stark</string>
+    <string name="real_name">Real Name</string>
+    <string name="created_by">Created By</string>
+    <string name="stan_lee">Stan Lee</string>
+    <string name="publisher">Publisher</string>
+    <string name="marvel_comics">Marvel Comics</string>
+    <string name="bio">Bio</string>
+    <string name="steven_rogers_was_born_in_the_lower_east_side_of_manhattan_new_york_city_in_1925_to_poor_irish_immigrants_sarah_and_joseph_rogers_54_joseph_died_when_steve_was_a_child_and_sarah_died_of_pneumonia_while_steve_was_a_teen_by_early_1940_before_america_s_entry_into_world_war_ii_rogers_is_a_tall_scrawny_fine_arts_student_specializing_in_illustration_and_a_comic_book_writer_and_artist">Steven Rogers was born in the Lower East Side of Manhattan, New York City, in 1925 to poor Irish immigrants, Sarah and Joseph Rogers.[54] Joseph died when Steve was a child, and Sarah died of pneumonia while Steve was a teen. By early 1940, before America\'s entry into World War II, Rogers is a tall, scrawny fine arts student specializing in illustration and a comic book writer and artist.</string>
+    <string name="todo">TODO</string>
+</resources>
